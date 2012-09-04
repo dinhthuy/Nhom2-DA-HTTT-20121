@@ -1,0 +1,7 @@
+﻿1. thêm file  vào thư mục git trong máy của mình (hoặc là chỉnh sửa file xong )
+2. gõ lệnh: $ git add tên file 
+3. tạo ghi chú sau khi up load : $ git commit -m 'bla bla'
+4. lần đầu dùng thì gõ : $git remote add vertical git@github.com:tên username/tên repository
+5 . đẩy lên github : $ git push -u vertical master
+
+	
