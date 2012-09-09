@@ -7,6 +7,7 @@
     <body>
         <?php
             echo "Hello world";
+            ///123
         ?>
     </body>
 </html>
