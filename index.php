@@ -7,7 +7,7 @@
     <body>
         <?php
             echo "Hello world";
-            ///123
+            echo "Test";
         ?>
     </body>
 </html>
